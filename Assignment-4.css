@@ -1,0 +1,13 @@
+body{
+	background-color:blue;
+	width: 950px;
+	margin:0 auto;}
+#content {
+overflow: auto;
+height:100%;}
+#nav,  #feature,#footer {
+background-color: #efefef;
+padding: 10px;}
+li {
+display:inline;
+padding: 100px;}
