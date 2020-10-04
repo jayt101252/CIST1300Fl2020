@@ -1,0 +1,23 @@
+body{
+	background-color: green;
+	width: 900px ;
+	margin:0 auto;}
+fieldset{
+    width: 300px;
+    border: 4px solid black;}
+legend{text-transform: uppercase}
+input#submit {color: aqua}
+h2{font-size: 250%}
+li{font-size: 130%; font-style: italic; color: black}
+h3{text-align: center}
+p{font-size: 150%; text-align: center}
+#content {
+overflow: auto;
+height:100%;}
+#nav,  #feature,#footer {
+background-color: aqua;
+padding: 10px;}
+li {
+display:inline;
+padding: 70px;}
+h4{text-align: left; font-size: 250%}
